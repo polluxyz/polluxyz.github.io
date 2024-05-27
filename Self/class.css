@@ -1,0 +1,10 @@
+.center {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
