@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>網站範例</title>
+  <style>
+    body,
+    html {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-image: url("background4.jpg");
+      background-size: cover;
+    }
+
+
+    .sidebar, .header, .content{
+      background-color: rgba(255, 255, 255, 0.8);
+    }
+    .sidebar-toggle {
+      background-color: rgba(255, 255, 255, 0);
+    }
+
+
+    .fixed {
+      position: fixed;
+    }
+
+    .header {
+      display: flex;
+      z-index: 10000;
+      position: relative;
+      width: 96vw;
+      height: 10vh;
+      border-radius: 2vh;
+      margin: 2vh auto 1vh;
+    }
+
+    .container {
+      display: flex;
+      width: 96vw;
+      height: 85vh;
+      margin: auto;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .sidebar {
+      position: relative;
+      color: black;
+      transition: width 0.3s ease;
+      border-radius: 2vh;
+      margin: 1vh 1vh 0 0;
+      overflow: hidden;
+    }
+
+    .sidebar-toggle {
+      color: black;
+      border: none;
+      cursor: pointer;
+      padding: 10px;
+      font-size: 20px;
+      position: relative;
+      margin: auto;
+    }
+
+    .menu {
+      width: 200px;
+    }
+
+    .menu ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .menu li {
+      padding: 10px;
+      border-bottom: 1px solid #444;
+    }
+
+    .menu a {
+      color: black;
+      text-decoration: none;
+    }
+
+    .content {
+      flex-grow: 1;
+      padding: 20px;
+      position: relative;
+      transition: margin-left 0.3s ease;
+      border-radius: 2vh;
+      margin: 1vh 0 0 1vh;
+      overflow-y: scroll;
+    }
+
+    .content::-webkit-scrollbar {
+      width: 0.6vw;
+	    background-color: #F5F5F5;
+      scroll-padding: 100px;
+    }
+
+
+    .content::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+      border-radius: 0.5vw;
+      background-color: #ffffff;
+    }
+
+    .content::-webkit-scrollbar-thumb {
+      border-radius: 10px;
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+      background-color: #bbbbbb;
+    }
+
+    .sidebar.expanded {
+      width: 30%;
+    }
+
+    .sidebar.collapsed {
+      width: 5%;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h1>hi</h1>
+  </div>
+  <div class="container">
+    <div class="sidebar collapsed" id="sidebar">
+      <button class="sidebar-toggle" id="sidebar-toggle">☰</button>
+      <nav class="menu" id="menu">
+        <ul>
+          <li><a href="#">選項 1</a></li>
+          <li><a href="#">選項 2</a></li>
+          <li><a href="#">選項 3</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="content" id="content">
+      <p>這裡是內容區域。</p>
+      <p>這是測試內容1。</p>
+      <p>這是測試內容2。</p>
+      <p>這是測試內容3。</p>
+      <p>這是測試內容4。</p>
+      <p>這是測試內容5。</p>
+      <p>這是測試內容6。</p>
+      <p>這是測試內容7。</p>
+      <p>這是測試內容8。</p>
+      <p>這是測試內容9。</p>
+      <p>這是測試內容10。</p>
+      <p>這是測試內容11。</p>
+      <p>這是測試內容12。</p>
+      <p>這是測試內容13。</p>
+      <p>這是測試內容14。</p>
+      <p>這是測試內容15。</p>
+      <p>這是測試內容16。</p>
+      <p>這是測試內容17。</p>
+      <p>這是測試內容18。</p>
+      <p>這是測試內容19。</p>
+      <p>這是測試內容20。</p>
+      <p>這是測試內容21。</p>
+      <p>這是測試內容22。</p>
+      <p>這是測試內容23。</p>
+      <p>這是測試內容24。</p>
+      <p>這是測試內容25。</p>
+      <p>這是測試內容26。</p>
+      <p>這是測試內容27。</p>
+      <p>這是測試內容28。</p>
+      <p>這是測試內容29。</p>
+      <p>這是測試內容30。</p>
+      <p>這是測試內容31。</p>
+      <p>這是測試內容32。</p>
+      <p>這是測試內容33。</p>
+      <p>這是測試內容34。</p>
+      <p>這是測試內容35。</p>
+      <p>這是測試內容36。</p>
+      <p>這是測試內容37。</p>
+      <p>這是測試內容38。</p>
+      <p>這是測試內容39。</p>
+      <p>這是測試內容40。</p>
+      <p>這是測試內容41。</p>
+      <p>這是測試內容42。</p>
+      <p>這是測試內容43。</p>
+      <p>這是測試內容44。</p>
+      <p>這是測試內容45。</p>
+      <p>這是測試內容46。</p>
+      <p>這是測試內容47。</p>
+      <p>這是測試內容48。</p>
+      <p>這是測試內容49。</p>
+      <p>這是測試內容50。</p>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const sidebar = document.getElementById('sidebar');
+      const sidebarToggle = document.getElementById('sidebar-toggle');
+      const content = document.getElementById('content');
+
+      sidebarToggle.addEventListener('click', function () {
+        if (sidebar.classList.contains('collapsed')) {
+          sidebar.classList.remove('collapsed');
+          sidebar.classList.add('expanded');
+          console.log("start")
+        } else {
+          sidebar.classList.remove('expanded');
+          sidebar.classList.add('collapsed');
+        }
+      });
+    });
+
+  </script>
+</body>
+
+</html>
