@@ -1,0 +1,4119 @@
+{
+   "stock": [
+      {
+         "stockNo": "1240",
+         "stockName": "茂生農經",
+         "stockIndustry": "農業科技業"
+      },
+      {
+         "stockNo": "1259",
+         "stockName": "安心",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "1264",
+         "stockName": "德麥",
+         "stockIndustry": "食品工業"
+      },
+      {
+         "stockNo": "1268",
+         "stockName": "漢來美食",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "1336",
+         "stockName": "台翰",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "1565",
+         "stockName": "精華",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1569",
+         "stockName": "濱川",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "1570",
+         "stockName": "力肯",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "1580",
+         "stockName": "新麥",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "1584",
+         "stockName": "精剛",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "1586",
+         "stockName": "和勤",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "1591",
+         "stockName": "駿吉-KY",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "1593",
+         "stockName": "祺驊",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "1595",
+         "stockName": "川寶",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "1599",
+         "stockName": "宏佳騰",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "1742",
+         "stockName": "台蠟",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "1777",
+         "stockName": "生泰",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1781",
+         "stockName": "合世",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1784",
+         "stockName": "訊聯",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1785",
+         "stockName": "光洋科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "1788",
+         "stockName": "杏昌",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1796",
+         "stockName": "金穎生技",
+         "stockIndustry": "食品工業"
+      },
+      {
+         "stockNo": "1799",
+         "stockName": "易威",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1813",
+         "stockName": "寶利徠",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "1815",
+         "stockName": "富喬",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "2035",
+         "stockName": "唐榮",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "2061",
+         "stockName": "風青",
+         "stockIndustry": "電器電纜"
+      },
+      {
+         "stockNo": "2063",
+         "stockName": "世鎧",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "2064",
+         "stockName": "晉椿",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "2065",
+         "stockName": "世豐",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "2066",
+         "stockName": "世德",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "2067",
+         "stockName": "嘉鋼",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "2070",
+         "stockName": "精湛",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "2073",
+         "stockName": "雄順",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "2221",
+         "stockName": "大甲",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "2230",
+         "stockName": "泰茂",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "2235",
+         "stockName": "謚源",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "2596",
+         "stockName": "綠意",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "2640",
+         "stockName": "大車隊",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "2641",
+         "stockName": "正德",
+         "stockIndustry": "航運業"
+      },
+      {
+         "stockNo": "2643",
+         "stockName": "捷迅",
+         "stockIndustry": "航運業"
+      },
+      {
+         "stockNo": "2718",
+         "stockName": "晶悅",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "2719",
+         "stockName": "燦星旅",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2724",
+         "stockName": "藝舍-KY",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2726",
+         "stockName": "雅茗-KY",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2729",
+         "stockName": "瓦城",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2732",
+         "stockName": "六角",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2734",
+         "stockName": "易飛網",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2736",
+         "stockName": "富野",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2740",
+         "stockName": "天蔥",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2743",
+         "stockName": "山富",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2745",
+         "stockName": "五福",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2752",
+         "stockName": "豆府",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2754",
+         "stockName": "亞洲藏壽司",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2755",
+         "stockName": "揚秦",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2756",
+         "stockName": "聯發國際",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "2916",
+         "stockName": "滿心",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "2924",
+         "stockName": "宏太-KY",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "2926",
+         "stockName": "誠品生活",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "2937",
+         "stockName": "集雅社",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "2941",
+         "stockName": "米斯特",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "2947",
+         "stockName": "振宇五金",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "2948",
+         "stockName": "寶陞",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "2949",
+         "stockName": "欣新網",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "3064",
+         "stockName": "泰偉",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "3066",
+         "stockName": "李洲",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3067",
+         "stockName": "全域",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3071",
+         "stockName": "協禧",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3073",
+         "stockName": "天方能源",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "3078",
+         "stockName": "僑威",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3081",
+         "stockName": "聯亞",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3083",
+         "stockName": "網龍",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "3085",
+         "stockName": "新零售",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "3086",
+         "stockName": "華義",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "3088",
+         "stockName": "艾訊",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3093",
+         "stockName": "港建*",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3095",
+         "stockName": "及成",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3105",
+         "stockName": "穩懋",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3114",
+         "stockName": "好德",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3115",
+         "stockName": "富榮綱",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3118",
+         "stockName": "進階",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "3122",
+         "stockName": "笙泉",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3128",
+         "stockName": "昇銳",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3131",
+         "stockName": "弘塑",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3141",
+         "stockName": "晶宏",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3147",
+         "stockName": "大綜",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "3152",
+         "stockName": "璟德",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3162",
+         "stockName": "精確",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "3163",
+         "stockName": "波若威",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3169",
+         "stockName": "亞信",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3171",
+         "stockName": "新洲",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "3176",
+         "stockName": "基亞",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "3178",
+         "stockName": "公準",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3188",
+         "stockName": "鑫龍騰",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "3191",
+         "stockName": "雲嘉南",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3202",
+         "stockName": "樺晟",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3205",
+         "stockName": "佰研",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "3206",
+         "stockName": "志豐",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3207",
+         "stockName": "耀勝",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3211",
+         "stockName": "順達",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3213",
+         "stockName": "茂訊",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3217",
+         "stockName": "優群",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3218",
+         "stockName": "大學光",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "3219",
+         "stockName": "倚強科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3221",
+         "stockName": "台嘉碩",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3224",
+         "stockName": "三顧",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "3226",
+         "stockName": "至寶電",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "3227",
+         "stockName": "原相",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3228",
+         "stockName": "金麗科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3230",
+         "stockName": "錦明",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3232",
+         "stockName": "昱捷",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "3234",
+         "stockName": "光環",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3236",
+         "stockName": "千如",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3252",
+         "stockName": "海灣",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "3259",
+         "stockName": "鑫創",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3260",
+         "stockName": "威剛",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3264",
+         "stockName": "欣銓",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3265",
+         "stockName": "台星科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3268",
+         "stockName": "海德威",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3272",
+         "stockName": "東碩",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3276",
+         "stockName": "宇環",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3284",
+         "stockName": "太普高",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "3285",
+         "stockName": "微端",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3287",
+         "stockName": "廣寰科",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3288",
+         "stockName": "點晶",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3289",
+         "stockName": "宜特",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3290",
+         "stockName": "東浦",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3293",
+         "stockName": "鈊象",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "3294",
+         "stockName": "英濟",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3297",
+         "stockName": "杭特",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3303",
+         "stockName": "岱稜",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3306",
+         "stockName": "鼎天",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3310",
+         "stockName": "佳穎",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3313",
+         "stockName": "斐成",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "3317",
+         "stockName": "尼克森",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3322",
+         "stockName": "建舜電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3323",
+         "stockName": "加百裕",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3324",
+         "stockName": "雙鴻",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3325",
+         "stockName": "旭品",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3332",
+         "stockName": "幸康",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3339",
+         "stockName": "泰谷",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3349",
+         "stockName": "寶德",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3354",
+         "stockName": "律勝",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3357",
+         "stockName": "臺慶科",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3360",
+         "stockName": "尚立",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "3362",
+         "stockName": "先進光",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3363",
+         "stockName": "上詮",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3372",
+         "stockName": "典範",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3373",
+         "stockName": "熱映",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3374",
+         "stockName": "精材",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3379",
+         "stockName": "彬台",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "3388",
+         "stockName": "崇越電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3390",
+         "stockName": "旭軟",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3402",
+         "stockName": "漢科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3426",
+         "stockName": "台興",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "3430",
+         "stockName": "奇鈦科",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "3434",
+         "stockName": "哲固",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3438",
+         "stockName": "類比科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3441",
+         "stockName": "聯一光",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3444",
+         "stockName": "利機",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "3455",
+         "stockName": "由田",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3465",
+         "stockName": "進泰電子",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3466",
+         "stockName": "德晉",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3479",
+         "stockName": "安勤",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3483",
+         "stockName": "力致",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3484",
+         "stockName": "崧騰",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3489",
+         "stockName": "森寶",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "3490",
+         "stockName": "單井",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3491",
+         "stockName": "昇達科",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3492",
+         "stockName": "長盛",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3498",
+         "stockName": "陽程",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3499",
+         "stockName": "環天科",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3508",
+         "stockName": "位速",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3511",
+         "stockName": "矽瑪",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3512",
+         "stockName": "皇龍",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "3516",
+         "stockName": "亞帝歐",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3520",
+         "stockName": "華盈",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3521",
+         "stockName": "鴻翊",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3522",
+         "stockName": "御頂",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "3523",
+         "stockName": "迎輝",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3526",
+         "stockName": "凡甲",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3527",
+         "stockName": "聚積",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3529",
+         "stockName": "力旺",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3531",
+         "stockName": "先益",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3537",
+         "stockName": "堡達",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3540",
+         "stockName": "曜越",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3541",
+         "stockName": "西柏",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3546",
+         "stockName": "宇峻",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "3548",
+         "stockName": "兆利",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3551",
+         "stockName": "世禾",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "3552",
+         "stockName": "同致",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3555",
+         "stockName": "博士旺",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3556",
+         "stockName": "禾瑞亞",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3558",
+         "stockName": "神準",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3564",
+         "stockName": "其陽",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3567",
+         "stockName": "逸昌",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3570",
+         "stockName": "大塚",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "3577",
+         "stockName": "泓格",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3580",
+         "stockName": "友威科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3581",
+         "stockName": "博磊",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3587",
+         "stockName": "閎康",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3594",
+         "stockName": "磐儀",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3597",
+         "stockName": "映興",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3609",
+         "stockName": "三一東林",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3611",
+         "stockName": "鼎翰",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3615",
+         "stockName": "安可",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3623",
+         "stockName": "富晶通",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3624",
+         "stockName": "光頡",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3625",
+         "stockName": "西勝",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3628",
+         "stockName": "盈正",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3629",
+         "stockName": "地心引力",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "3630",
+         "stockName": "新鉅科",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3631",
+         "stockName": "晟楠",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3632",
+         "stockName": "研勤",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3646",
+         "stockName": "艾恩特",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3663",
+         "stockName": "鑫科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "3664",
+         "stockName": "安瑞-KY",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3666",
+         "stockName": "光耀",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3672",
+         "stockName": "康聯訊",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3675",
+         "stockName": "德微",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3680",
+         "stockName": "家登",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3684",
+         "stockName": "榮昌",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "3685",
+         "stockName": "元創精密",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "3687",
+         "stockName": "歐買尬",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "3689",
+         "stockName": "湧德",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3691",
+         "stockName": "碩禾",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "3693",
+         "stockName": "營邦",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3707",
+         "stockName": "漢磊",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "3709",
+         "stockName": "鑫聯大投控",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "3710",
+         "stockName": "連展投控",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "3713",
+         "stockName": "新晶投控",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "4102",
+         "stockName": "永日",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4105",
+         "stockName": "東洋",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4107",
+         "stockName": "邦特",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4109",
+         "stockName": "加捷生醫",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4111",
+         "stockName": "濟生",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4113",
+         "stockName": "聯上",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "4114",
+         "stockName": "健喬",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4116",
+         "stockName": "明基醫",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4120",
+         "stockName": "友華",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4121",
+         "stockName": "優盛",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4123",
+         "stockName": "晟德",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4126",
+         "stockName": "太醫",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4127",
+         "stockName": "天良",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4128",
+         "stockName": "中天",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4129",
+         "stockName": "聯合",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4130",
+         "stockName": "健亞",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4131",
+         "stockName": "浩泰",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4138",
+         "stockName": "曜亞",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4139",
+         "stockName": "馬光-KY",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4147",
+         "stockName": "中裕",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4153",
+         "stockName": "鈺緯",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4154",
+         "stockName": "樂威科-KY",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "4157",
+         "stockName": "太景*-KY",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4160",
+         "stockName": "訊聯基因",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4161",
+         "stockName": "聿新科",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4162",
+         "stockName": "智擎",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4163",
+         "stockName": "鐿鈦",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4167",
+         "stockName": "松瑞藥",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4168",
+         "stockName": "醣聯",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4171",
+         "stockName": "瑞基",
+         "stockIndustry": "農業科技業"
+      },
+      {
+         "stockNo": "4173",
+         "stockName": "久裕",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4174",
+         "stockName": "浩鼎",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4175",
+         "stockName": "杏一",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4183",
+         "stockName": "福永生技",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4188",
+         "stockName": "安克",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4192",
+         "stockName": "杏國",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4198",
+         "stockName": "欣大健康",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4205",
+         "stockName": "中華食",
+         "stockIndustry": "食品工業"
+      },
+      {
+         "stockNo": "4207",
+         "stockName": "環泰",
+         "stockIndustry": "食品工業"
+      },
+      {
+         "stockNo": "4303",
+         "stockName": "信立",
+         "stockIndustry": "塑膠工業"
+      },
+      {
+         "stockNo": "4304",
+         "stockName": "勝昱",
+         "stockIndustry": "塑膠工業"
+      },
+      {
+         "stockNo": "4305",
+         "stockName": "世坤",
+         "stockIndustry": "塑膠工業"
+      },
+      {
+         "stockNo": "4401",
+         "stockName": "東隆興",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4402",
+         "stockName": "福大",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4406",
+         "stockName": "新昕纖",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4413",
+         "stockName": "飛寶企業",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4416",
+         "stockName": "三圓",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "4417",
+         "stockName": "金洲",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4419",
+         "stockName": "元勝",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4420",
+         "stockName": "光明",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4430",
+         "stockName": "耀億",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "4432",
+         "stockName": "銘旺實",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4433",
+         "stockName": "興采",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4442",
+         "stockName": "竣邦-KY",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "4502",
+         "stockName": "健信",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4503",
+         "stockName": "金雨",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4506",
+         "stockName": "崇友",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4510",
+         "stockName": "高鋒",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4513",
+         "stockName": "福裕",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4523",
+         "stockName": "永彰",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4527",
+         "stockName": "方土霖",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4528",
+         "stockName": "江興鍛",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4529",
+         "stockName": "淳紳",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "4530",
+         "stockName": "宏易",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "4533",
+         "stockName": "協易機",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4534",
+         "stockName": "慶騰",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4535",
+         "stockName": "至興",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4538",
+         "stockName": "大詠城",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4541",
+         "stockName": "晟田",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "4542",
+         "stockName": "科嶠",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "4543",
+         "stockName": "萬在",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4549",
+         "stockName": "桓達",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4550",
+         "stockName": "長佳",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4554",
+         "stockName": "橙的",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "4556",
+         "stockName": "旭然",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "4558",
+         "stockName": "寶緯",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4561",
+         "stockName": "健椿",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4563",
+         "stockName": "百德",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4568",
+         "stockName": "科際精密",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4577",
+         "stockName": "達航科技",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "4580",
+         "stockName": "捷流閥業",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4584",
+         "stockName": "君帆",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "4609",
+         "stockName": "唐鋒",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "4702",
+         "stockName": "中美實",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "4706",
+         "stockName": "大恭",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4707",
+         "stockName": "磐亞",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4711",
+         "stockName": "永純",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4712",
+         "stockName": "福格創新",
+         "stockIndustry": "食品工業"
+      },
+      {
+         "stockNo": "4714",
+         "stockName": "永捷",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4716",
+         "stockName": "大立",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4721",
+         "stockName": "美琪瑪",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4726",
+         "stockName": "永昕",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4728",
+         "stockName": "雙美",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4729",
+         "stockName": "熒茂",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "4735",
+         "stockName": "豪展",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4741",
+         "stockName": "泓瀚",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4743",
+         "stockName": "合一",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4744",
+         "stockName": "皇將",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4745",
+         "stockName": "合富-KY",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4747",
+         "stockName": "強生",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4754",
+         "stockName": "國碳科",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4760",
+         "stockName": "勤凱",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "4767",
+         "stockName": "誠泰科技",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4768",
+         "stockName": "晶呈科技",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "4804",
+         "stockName": "大略-KY",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "4806",
+         "stockName": "昇華",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "4903",
+         "stockName": "聯光通",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "4905",
+         "stockName": "台聯電",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "4907",
+         "stockName": "富宇",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "4908",
+         "stockName": "前鼎",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "4909",
+         "stockName": "新復興",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "4911",
+         "stockName": "德英",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "4923",
+         "stockName": "力士",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4924",
+         "stockName": "欣厚-KY",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "4931",
+         "stockName": "新盛力",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "4933",
+         "stockName": "友輝",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "4939",
+         "stockName": "亞電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "4945",
+         "stockName": "陞達科技",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4946",
+         "stockName": "辣椒",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "4950",
+         "stockName": "牧東",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "4951",
+         "stockName": "精拓科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4953",
+         "stockName": "緯軟",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "4966",
+         "stockName": "譜瑞-KY",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4971",
+         "stockName": "IET-KY",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4972",
+         "stockName": "湯石照明",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "4973",
+         "stockName": "廣穎",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4974",
+         "stockName": "亞泰",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "4979",
+         "stockName": "華星光",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "4987",
+         "stockName": "科誠",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "4991",
+         "stockName": "環宇-KY",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "4995",
+         "stockName": "晶達",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5009",
+         "stockName": "榮剛",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "5011",
+         "stockName": "久陽",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "5013",
+         "stockName": "強新",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "5014",
+         "stockName": "建錩",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "5015",
+         "stockName": "華祺",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "5016",
+         "stockName": "松和",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "5201",
+         "stockName": "凱衛",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5202",
+         "stockName": "力新",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5205",
+         "stockName": "中茂",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "5206",
+         "stockName": "坤悅",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5209",
+         "stockName": "新鼎",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5210",
+         "stockName": "寶碩",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5211",
+         "stockName": "蒙恬",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5212",
+         "stockName": "凌網",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5213",
+         "stockName": "亞昕",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5220",
+         "stockName": "萬達光電",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5223",
+         "stockName": "安力-KY",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5227",
+         "stockName": "立凱-KY",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5228",
+         "stockName": "鈺鎧",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5230",
+         "stockName": "雷笛克光學",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5236",
+         "stockName": "凌陽創新",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5245",
+         "stockName": "智晶",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5251",
+         "stockName": "天鉞電",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5263",
+         "stockName": "智崴",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "5272",
+         "stockName": "笙科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5274",
+         "stockName": "信驊",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5276",
+         "stockName": "達輝-KY",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5278",
+         "stockName": "尚凡",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "5287",
+         "stockName": "數字",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "5289",
+         "stockName": "宜鼎",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5291",
+         "stockName": "邑昇",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5299",
+         "stockName": "杰力",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5301",
+         "stockName": "寶得利",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "5302",
+         "stockName": "太欣",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5309",
+         "stockName": "系統電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5310",
+         "stockName": "天剛",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5312",
+         "stockName": "寶島科",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "5314",
+         "stockName": "世紀",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5315",
+         "stockName": "光聯",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5321",
+         "stockName": "美而快",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "5324",
+         "stockName": "士開",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5328",
+         "stockName": "華容",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5340",
+         "stockName": "建榮",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5344",
+         "stockName": "立衛",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5345",
+         "stockName": "天揚",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5347",
+         "stockName": "世界",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5348",
+         "stockName": "正能量智能",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "5351",
+         "stockName": "鈺創",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5353",
+         "stockName": "台林",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "5355",
+         "stockName": "佳總",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5356",
+         "stockName": "協益",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5364",
+         "stockName": "力麗店",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "5371",
+         "stockName": "中光電",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5381",
+         "stockName": "合正",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5383",
+         "stockName": "金利",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "5386",
+         "stockName": "青雲",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5392",
+         "stockName": "能率",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5398",
+         "stockName": "慕康生醫",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5403",
+         "stockName": "中菲",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5410",
+         "stockName": "國眾",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "5425",
+         "stockName": "台半",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5426",
+         "stockName": "振發",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5432",
+         "stockName": "新門",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5438",
+         "stockName": "東友",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5439",
+         "stockName": "高技",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5443",
+         "stockName": "均豪",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "5450",
+         "stockName": "南良",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5452",
+         "stockName": "佶優",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "5455",
+         "stockName": "昇益",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5457",
+         "stockName": "宣德",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5460",
+         "stockName": "同協",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5464",
+         "stockName": "霖宏",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5465",
+         "stockName": "富驊",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5468",
+         "stockName": "凱鈺",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5474",
+         "stockName": "聰泰",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5475",
+         "stockName": "德宏",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5478",
+         "stockName": "智冠",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "5481",
+         "stockName": "新華",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5483",
+         "stockName": "中美晶",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5487",
+         "stockName": "通泰",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "5488",
+         "stockName": "松普",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5489",
+         "stockName": "彩富",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "5490",
+         "stockName": "同亨",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "5493",
+         "stockName": "三聯",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "5498",
+         "stockName": "凱崴",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "5508",
+         "stockName": "永信建",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5511",
+         "stockName": "德昌",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5512",
+         "stockName": "力麒",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5514",
+         "stockName": "三豐",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5516",
+         "stockName": "雙喜",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5520",
+         "stockName": "力泰",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5523",
+         "stockName": "豐謙",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5529",
+         "stockName": "鉅陞",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5530",
+         "stockName": "龍巖",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5536",
+         "stockName": "聖暉*",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "5543",
+         "stockName": "桓鼎-KY",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5548",
+         "stockName": "安倉",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "5601",
+         "stockName": "台聯櫃",
+         "stockIndustry": "航運業"
+      },
+      {
+         "stockNo": "5603",
+         "stockName": "陸海",
+         "stockIndustry": "航運業"
+      },
+      {
+         "stockNo": "5604",
+         "stockName": "中連",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "5609",
+         "stockName": "中菲行",
+         "stockIndustry": "航運業"
+      },
+      {
+         "stockNo": "5701",
+         "stockName": "劍湖山",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "5703",
+         "stockName": "亞都",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "5704",
+         "stockName": "老爺知",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "5864",
+         "stockName": "致和證",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "5878",
+         "stockName": "台名",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "5902",
+         "stockName": "德記",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "5903",
+         "stockName": "全家",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "5904",
+         "stockName": "寶雅",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "5905",
+         "stockName": "南仁湖",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "6015",
+         "stockName": "宏遠證",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "6016",
+         "stockName": "康和證",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "6020",
+         "stockName": "大展證",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "6021",
+         "stockName": "美好證",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "6023",
+         "stockName": "元大期",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "6026",
+         "stockName": "福邦證",
+         "stockIndustry": "金融保險業"
+      },
+      {
+         "stockNo": "6101",
+         "stockName": "寬魚國際",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6103",
+         "stockName": "合邦",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6104",
+         "stockName": "創惟",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6109",
+         "stockName": "亞元",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6111",
+         "stockName": "大宇資",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6113",
+         "stockName": "亞矽",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "6114",
+         "stockName": "久威",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6118",
+         "stockName": "建達",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "6121",
+         "stockName": "新普",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6122",
+         "stockName": "擎邦",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "6123",
+         "stockName": "上奇",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6124",
+         "stockName": "業強",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6125",
+         "stockName": "廣運",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6126",
+         "stockName": "信音",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6127",
+         "stockName": "九豪",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6129",
+         "stockName": "普誠",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6130",
+         "stockName": "上亞科技",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6134",
+         "stockName": "萬旭",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6138",
+         "stockName": "茂達",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6140",
+         "stockName": "訊達",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6143",
+         "stockName": "振曜",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6144",
+         "stockName": "得利影",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6146",
+         "stockName": "耕興",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6147",
+         "stockName": "頎邦",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6148",
+         "stockName": "驊宏資",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6150",
+         "stockName": "撼訊",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6151",
+         "stockName": "晉倫",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6154",
+         "stockName": "順發",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "6156",
+         "stockName": "松上",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6158",
+         "stockName": "禾昌",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6160",
+         "stockName": "欣技",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6161",
+         "stockName": "捷波",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6163",
+         "stockName": "華電網",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6167",
+         "stockName": "久正",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6169",
+         "stockName": "昱泉",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6170",
+         "stockName": "統振",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6171",
+         "stockName": "大城地產",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "6173",
+         "stockName": "信昌電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6174",
+         "stockName": "安碁",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6175",
+         "stockName": "立敦",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6179",
+         "stockName": "亞通",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6180",
+         "stockName": "橘子",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6182",
+         "stockName": "合晶",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6185",
+         "stockName": "幃翔",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6186",
+         "stockName": "新潤",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "6187",
+         "stockName": "萬潤",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6188",
+         "stockName": "廣明",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6190",
+         "stockName": "萬泰科",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6194",
+         "stockName": "育富",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6195",
+         "stockName": "詩肯",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "6198",
+         "stockName": "瑞築",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6199",
+         "stockName": "天品",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6203",
+         "stockName": "海韻電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6204",
+         "stockName": "艾華",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6207",
+         "stockName": "雷科",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6208",
+         "stockName": "日揚",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6210",
+         "stockName": "慶生",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6212",
+         "stockName": "理銘",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "6217",
+         "stockName": "中探針",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6218",
+         "stockName": "豪勉",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6219",
+         "stockName": "富旺",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "6220",
+         "stockName": "岳豐",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6221",
+         "stockName": "晉泰",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6222",
+         "stockName": "上揚",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6223",
+         "stockName": "旺矽",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6227",
+         "stockName": "茂綸",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "6228",
+         "stockName": "全譜",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6229",
+         "stockName": "研通",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6231",
+         "stockName": "系微",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6233",
+         "stockName": "旺玖",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6234",
+         "stockName": "高僑",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6236",
+         "stockName": "中湛",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6237",
+         "stockName": "驊訊",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6240",
+         "stockName": "松崗",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6241",
+         "stockName": "易通展",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6242",
+         "stockName": "立康",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6244",
+         "stockName": "茂迪",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6245",
+         "stockName": "立端",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6246",
+         "stockName": "臺龍",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6248",
+         "stockName": "沛波",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "6259",
+         "stockName": "百徽",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6261",
+         "stockName": "久元",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6263",
+         "stockName": "普萊德",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6264",
+         "stockName": "富裔",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "6265",
+         "stockName": "方土昶",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "6266",
+         "stockName": "泰詠",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6270",
+         "stockName": "倍微",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "6274",
+         "stockName": "台燿",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6275",
+         "stockName": "元山",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6276",
+         "stockName": "安鈦克",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6279",
+         "stockName": "胡連",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6284",
+         "stockName": "佳邦",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6287",
+         "stockName": "元隆",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6290",
+         "stockName": "良維",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6291",
+         "stockName": "沛亨",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6292",
+         "stockName": "迅德",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6294",
+         "stockName": "智基",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6404",
+         "stockName": "通訊-KY",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6411",
+         "stockName": "晶焱",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6417",
+         "stockName": "韋僑",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6418",
+         "stockName": "詠昇",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6419",
+         "stockName": "京晨科",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6425",
+         "stockName": "易發",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "6432",
+         "stockName": "今展科",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6435",
+         "stockName": "大中",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6441",
+         "stockName": "廣錠",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6457",
+         "stockName": "紘康",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6461",
+         "stockName": "益得",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6462",
+         "stockName": "神盾",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6465",
+         "stockName": "威潤",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6469",
+         "stockName": "大樹",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6470",
+         "stockName": "宇智",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6482",
+         "stockName": "弘煜科",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6485",
+         "stockName": "點序",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6486",
+         "stockName": "互動",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6488",
+         "stockName": "環球晶",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6492",
+         "stockName": "生華科",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6494",
+         "stockName": "九齊",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6496",
+         "stockName": "科懋",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6499",
+         "stockName": "益安",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6506",
+         "stockName": "雙邦",
+         "stockIndustry": "紡織纖維"
+      },
+      {
+         "stockNo": "6508",
+         "stockName": "惠光",
+         "stockIndustry": "農業科技業"
+      },
+      {
+         "stockNo": "6509",
+         "stockName": "聚和",
+         "stockIndustry": "化學工業"
+      },
+      {
+         "stockNo": "6510",
+         "stockName": "精測",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6512",
+         "stockName": "啟發電",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6514",
+         "stockName": "芮特-KY",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6516",
+         "stockName": "勤崴國際",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6517",
+         "stockName": "保勝光學",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6523",
+         "stockName": "達爾膚",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6527",
+         "stockName": "明達醫",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6530",
+         "stockName": "創威",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6532",
+         "stockName": "瑞耘",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6535",
+         "stockName": "順藥",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6538",
+         "stockName": "倉和",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6542",
+         "stockName": "隆中",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6546",
+         "stockName": "正基",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6547",
+         "stockName": "高端疫苗",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6548",
+         "stockName": "長科*",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6556",
+         "stockName": "勝品",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6560",
+         "stockName": "欣普羅",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6561",
+         "stockName": "是方",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6568",
+         "stockName": "宏觀",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6569",
+         "stockName": "醫揚",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6570",
+         "stockName": "維田",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6574",
+         "stockName": "霈方",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6576",
+         "stockName": "逸達",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6577",
+         "stockName": "勁豐",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6578",
+         "stockName": "達邦蛋白",
+         "stockIndustry": "農業科技業"
+      },
+      {
+         "stockNo": "6584",
+         "stockName": "南俊國際",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6588",
+         "stockName": "東典光電",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "6589",
+         "stockName": "台康生技",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6590",
+         "stockName": "普鴻",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6593",
+         "stockName": "台灣銘板",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6596",
+         "stockName": "寬宏藝術",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6603",
+         "stockName": "富強鑫",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "6609",
+         "stockName": "瀧澤科",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "6612",
+         "stockName": "奈米醫材",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6613",
+         "stockName": "朋億*",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6615",
+         "stockName": "慧智",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6616",
+         "stockName": "特昇-KY",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "6624",
+         "stockName": "萬年清",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "6629",
+         "stockName": "泰金-KY",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "6640",
+         "stockName": "均華",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6642",
+         "stockName": "富致",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6643",
+         "stockName": "M31",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6649",
+         "stockName": "台生材",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6651",
+         "stockName": "全宇昕",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6654",
+         "stockName": "天正國際",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6661",
+         "stockName": "威健生技",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6662",
+         "stockName": "樂斯科",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6664",
+         "stockName": "群翊",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6667",
+         "stockName": "信紘科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6679",
+         "stockName": "鈺太",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6680",
+         "stockName": "鑫創電子",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6683",
+         "stockName": "雍智科技",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6684",
+         "stockName": "安格",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6690",
+         "stockName": "安碁資訊",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "6692",
+         "stockName": "進能服",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "6693",
+         "stockName": "廣閎科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6697",
+         "stockName": "東捷資訊",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6703",
+         "stockName": "軒郁",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6708",
+         "stockName": "天擎",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6712",
+         "stockName": "長聖",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6716",
+         "stockName": "應廣",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6721",
+         "stockName": "信實",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6727",
+         "stockName": "亞泰金屬",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6728",
+         "stockName": "上洋",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "6732",
+         "stockName": "昇佳電子",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6733",
+         "stockName": "博晟生醫",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6735",
+         "stockName": "美達科技",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6741",
+         "stockName": "91APP*-KY",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "6747",
+         "stockName": "亨泰光",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6751",
+         "stockName": "智聯服務",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6752",
+         "stockName": "叡揚",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6761",
+         "stockName": "穩得",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6762",
+         "stockName": "達亞",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6763",
+         "stockName": "綠界科技",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "6767",
+         "stockName": "台微醫",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6785",
+         "stockName": "昱展新藥",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6788",
+         "stockName": "華景電",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6791",
+         "stockName": "虎門科技",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6803",
+         "stockName": "崑鼎",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "6804",
+         "stockName": "明係",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "6811",
+         "stockName": "宏碁資訊",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "6821",
+         "stockName": "聯寶",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "6823",
+         "stockName": "濾能",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6829",
+         "stockName": "千附精密",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "6840",
+         "stockName": "東研信超",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6841",
+         "stockName": "長佳智能",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6843",
+         "stockName": "進典",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "6844",
+         "stockName": "諾貝兒",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6846",
+         "stockName": "綠茵",
+         "stockIndustry": "食品工業"
+      },
+      {
+         "stockNo": "6855",
+         "stockName": "數泓科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6856",
+         "stockName": "鑫傳",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "6859",
+         "stockName": "伯特光",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6865",
+         "stockName": "偉康科技",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6870",
+         "stockName": "騰雲",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "6874",
+         "stockName": "倍力",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "6875",
+         "stockName": "國邑*",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6877",
+         "stockName": "鏵友益",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "6881",
+         "stockName": "潤德",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6894",
+         "stockName": "衛司特",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "6895",
+         "stockName": "宏碩系統",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "6899",
+         "stockName": "創為精密",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "6904",
+         "stockName": "伯鑫",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "6922",
+         "stockName": "宸曜",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "6929",
+         "stockName": "佑全",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "6953",
+         "stockName": "家碩",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "7402",
+         "stockName": "邑錡",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "7556",
+         "stockName": "意德士",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8024",
+         "stockName": "佑華",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8027",
+         "stockName": "鈦昇",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "8032",
+         "stockName": "光菱",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "8034",
+         "stockName": "榮群",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "8038",
+         "stockName": "長園科",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8040",
+         "stockName": "九暘",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8042",
+         "stockName": "金山電",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8043",
+         "stockName": "蜜望實",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8044",
+         "stockName": "網家",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "8047",
+         "stockName": "星雲",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8048",
+         "stockName": "德勝",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "8049",
+         "stockName": "晶采",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "8050",
+         "stockName": "廣積",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "8054",
+         "stockName": "安國",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8059",
+         "stockName": "凱碩",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "8064",
+         "stockName": "東捷",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "8066",
+         "stockName": "來思達",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "8067",
+         "stockName": "志旭",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "8068",
+         "stockName": "全達",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "8069",
+         "stockName": "元太",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "8071",
+         "stockName": "能率網通",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8074",
+         "stockName": "鉅橡",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8076",
+         "stockName": "伍豐",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "8077",
+         "stockName": "洛碁",
+         "stockIndustry": "觀光餐旅"
+      },
+      {
+         "stockNo": "8080",
+         "stockName": "印鉐",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "8083",
+         "stockName": "瑞穎",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "8084",
+         "stockName": "巨虹",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "8085",
+         "stockName": "福華",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8086",
+         "stockName": "宏捷科",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8087",
+         "stockName": "華鎂鑫",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "8088",
+         "stockName": "品安",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8089",
+         "stockName": "康全電訊",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "8091",
+         "stockName": "翔名",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8092",
+         "stockName": "建暐",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8093",
+         "stockName": "保銳",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8096",
+         "stockName": "擎亞",
+         "stockIndustry": "電子通路業"
+      },
+      {
+         "stockNo": "8097",
+         "stockName": "常珵",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "8099",
+         "stockName": "大世科",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "8107",
+         "stockName": "大億金茂",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "8109",
+         "stockName": "博大",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8111",
+         "stockName": "立碁",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "8121",
+         "stockName": "越峰",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8147",
+         "stockName": "正淩",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8155",
+         "stockName": "博智",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8171",
+         "stockName": "天宇",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "8176",
+         "stockName": "智捷",
+         "stockIndustry": "通信網路業"
+      },
+      {
+         "stockNo": "8182",
+         "stockName": "加高",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8183",
+         "stockName": "精星",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8227",
+         "stockName": "巨有科技",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8234",
+         "stockName": "新漢",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "8240",
+         "stockName": "華宏",
+         "stockIndustry": "光電業"
+      },
+      {
+         "stockNo": "8255",
+         "stockName": "朋程",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "8277",
+         "stockName": "商丞",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8279",
+         "stockName": "生展",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "8284",
+         "stockName": "三竹",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "8289",
+         "stockName": "泰藝",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8291",
+         "stockName": "尚茂",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8299",
+         "stockName": "群聯",
+         "stockIndustry": "半導體業"
+      },
+      {
+         "stockNo": "8342",
+         "stockName": "益張",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8349",
+         "stockName": "恒耀",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "8354",
+         "stockName": "冠好",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8358",
+         "stockName": "金居",
+         "stockIndustry": "電子零組件業"
+      },
+      {
+         "stockNo": "8383",
+         "stockName": "千附",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8390",
+         "stockName": "金益鼎",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "8401",
+         "stockName": "白紗科",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8403",
+         "stockName": "盛弘",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "8409",
+         "stockName": "商之器",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "8410",
+         "stockName": "森田",
+         "stockIndustry": "電腦及週邊設備業"
+      },
+      {
+         "stockNo": "8415",
+         "stockName": "大國鋼",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "8416",
+         "stockName": "實威",
+         "stockIndustry": "資訊服務業"
+      },
+      {
+         "stockNo": "8420",
+         "stockName": "明揚",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "8421",
+         "stockName": "旭源",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8423",
+         "stockName": "保綠-KY",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "8424",
+         "stockName": "惠普",
+         "stockIndustry": "建材營造業"
+      },
+      {
+         "stockNo": "8426",
+         "stockName": "紅木-KY",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8431",
+         "stockName": "匯鑽科",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8432",
+         "stockName": "東生華",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "8433",
+         "stockName": "弘帆",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "8435",
+         "stockName": "鉅邁",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8436",
+         "stockName": "大江",
+         "stockIndustry": "生技醫療業"
+      },
+      {
+         "stockNo": "8437",
+         "stockName": "大地-KY",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8440",
+         "stockName": "綠電",
+         "stockIndustry": "綠能環保"
+      },
+      {
+         "stockNo": "8444",
+         "stockName": "綠河-KY",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8446",
+         "stockName": "華研",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "8450",
+         "stockName": "霹靂",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "8455",
+         "stockName": "大拓-KY",
+         "stockIndustry": "其他電子業"
+      },
+      {
+         "stockNo": "8472",
+         "stockName": "夠麻吉",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "8477",
+         "stockName": "創業家",
+         "stockIndustry": "數位雲端"
+      },
+      {
+         "stockNo": "8489",
+         "stockName": "三貝德",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8905",
+         "stockName": "裕國",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8906",
+         "stockName": "花王",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8908",
+         "stockName": "欣雄",
+         "stockIndustry": "油電燃氣業"
+      },
+      {
+         "stockNo": "8916",
+         "stockName": "光隆",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8917",
+         "stockName": "欣泰",
+         "stockIndustry": "油電燃氣業"
+      },
+      {
+         "stockNo": "8921",
+         "stockName": "沈氏",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8923",
+         "stockName": "時報",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "8924",
+         "stockName": "大田",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "8927",
+         "stockName": "北基",
+         "stockIndustry": "油電燃氣業"
+      },
+      {
+         "stockNo": "8928",
+         "stockName": "鉅明",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "8929",
+         "stockName": "富堡",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8930",
+         "stockName": "青鋼",
+         "stockIndustry": "鋼鐵工業"
+      },
+      {
+         "stockNo": "8931",
+         "stockName": "大汽電",
+         "stockIndustry": "油電燃氣業"
+      },
+      {
+         "stockNo": "8932",
+         "stockName": "智通",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8933",
+         "stockName": "愛地雅",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "8935",
+         "stockName": "邦泰",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8936",
+         "stockName": "國統",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8937",
+         "stockName": "合騏",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "8938",
+         "stockName": "明安",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "8941",
+         "stockName": "關中",
+         "stockIndustry": "居家生活"
+      },
+      {
+         "stockNo": "8942",
+         "stockName": "森鉅",
+         "stockIndustry": "其他業"
+      },
+      {
+         "stockNo": "9949",
+         "stockName": "琉園",
+         "stockIndustry": "文化創意業"
+      },
+      {
+         "stockNo": "9950",
+         "stockName": "萬國通",
+         "stockIndustry": "塑膠工業"
+      },
+      {
+         "stockNo": "9951",
+         "stockName": "皇田",
+         "stockIndustry": "電機機械"
+      },
+      {
+         "stockNo": "9960",
+         "stockName": "邁達康",
+         "stockIndustry": "運動休閒"
+      },
+      {
+         "stockNo": "9962",
+         "stockName": "有益",
+         "stockIndustry": "鋼鐵工業"
+      }
+   ]
+}
