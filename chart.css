@@ -1,0 +1,14 @@
+#chart {
+  height: 80%;
+  border-radius: 2vh;
+  transition: width 0.3s;
+}
+
+.highcharts-title,
+.highcharts-subtitle,
+.highcharts-axis-title,
+.highcharts-axis-labels,
+.highcharts-tooltip,
+.highcharts-legend-item text {
+  font-size: 2vh !important; /* 设置你需要的字体大小 */
+}
