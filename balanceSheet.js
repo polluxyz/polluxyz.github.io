@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function balanceSheet(path) {
     fetch(path)
       .then((response) => {
+        // 確認資料存在
         if (response["ok"]) {
           return response.json();
         } else {
@@ -45,6 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       })
       .then((balanceSheetData) => {
+        // 加上theaad
         clearTable();
         clearTableHead();
         const tableHead = document.querySelector("#balanceSheetTable thead");
@@ -60,6 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
         headRow.appendChild(thead2);
         tableHead.appendChild(headRow);
 
+        // balance sheet的資料
         const tableBody = document.querySelector("#balanceSheetTable tbody");
         const data = balanceSheetData.data;
         const fields = balanceSheetData.field;
@@ -143,6 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const inputValue = document.getElementById("input");
   const searchForm = document.getElementById("search");
 
+  // 對比股票是否在清單中
   let stockList = [];
   fetch("stock_data/stock_list/Listed_stock_info_list.json")
     .then((response) => response.json())
@@ -158,11 +162,11 @@ document.addEventListener("DOMContentLoaded", () => {
     updateBalanceSheet();
   });
 
+  // select 改變後更新表格
   yearSelect.addEventListener("change", updateBalanceSheet);
   seasonSelect.addEventListener("change", updateBalanceSheet);
 
-  // 初始化表格，設置為2013年第1季度
+  // 初始化表格，設置為最新季度
   yearSelect.value = "2024";
   seasonSelect.value = "1";
-  // updateBalanceSheet();
 });
