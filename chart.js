@@ -32,8 +32,8 @@ loadScripts([
 
       const stockList = stock_List.stock;
 
-      let stockNum = localStorage.getItem("stockNum");
-      let stockName = localStorage.getItem("stockName");
+      let stockNum = "";
+      let stockName = "";
 
       const loadData = async (stockNum, stockName) => {
         let indexData, volumeData;

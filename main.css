@@ -8,6 +8,9 @@ html {
   font-family: "LXGW WenKai TC", cursive;
 }
 
+a:visited {
+  color: black;
+}
 
 .sidebar,
 .header,
@@ -35,6 +38,7 @@ html {
 
 .header h1 {
   margin: 2vh 2vw;
+  font-size: 2.5vw;
 }
 
 .header span {
@@ -77,6 +81,7 @@ html {
     input {
       width: 10em;
       font-size: 1.2em;
+      font-family: "LXGW WenKai TC", cursive;
     }
 
     button {
@@ -133,6 +138,8 @@ html {
 
 /* content */
 .content {
+  /* display: flex;
+  justify-content: center; */
   flex-grow: 1;
   padding: 20px;
   position: relative;
@@ -168,6 +175,7 @@ html {
 input::placeholder {
   margin: auto;
   font-size: 1em;
+  font-family: "LXGW WenKai TC", cursive;
 }
 
 #menu {
@@ -288,4 +296,59 @@ input::placeholder {
 
 a {
   text-decoration: none;
+}
+
+/* Balance Sheet Table */
+
+/* Select */
+
+select {
+  width: 4em;
+}
+
+/* Table */
+thead, tbody {
+  font-size: 1.1em;
+}
+
+label,select {
+  font-size: 1.2em;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-left {
+  text-align: left;
+  font-size: 1.2em;
+  padding-top: 0.8em;
+}
+
+.border-top1 {
+  border-top: 0.1em solid rgba(95, 146, 196);
+}
+
+.border-top1.bold-text {
+  color: rgba(95, 146, 196);
+}
+
+.border-top2 {
+  border-top: 0.2em double  rgb(20, 64, 151);
+}
+
+.border-top2.bold-text {
+  color: rgb(20, 64, 151);
+}
+
+tr.hover:hover {
+  background-color: rgba(203, 224, 247, 0.5);
 }

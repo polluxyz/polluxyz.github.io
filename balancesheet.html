@@ -14,7 +14,7 @@
 
 <body>
   <div class="header">
-    <h1>Stock Analysis</h1>
+    <h1>Stock Information</h1>
     <span>/資產負債表</span>
   </div>
   <div class="container">
@@ -43,11 +43,9 @@
             <ul>
               <li><a href="#">存貨</a></li>
               <li><a href="#">合約負債</a></li>
-              <li><a href="#">Tempus Magna</a></li>
-              <li><a href="#">Feugiat Veroeros</a></li>
             </ul>
           </li>
-          <li>
+          <!-- <li>
             <span class="opener">Submenu</span>
             <ul>
               <li><a href="#">Lorem Dolor</a></li>
@@ -55,23 +53,31 @@
               <li><a href="#">Tempus Magna</a></li>
               <li><a href="#">Feugiat Veroeros</a></li>
             </ul>
-          </li>
+          </li> -->
         </ul>
       </nav>
     </div>
     <div class="content" id="content">
-      <h1>台泥2013第一季資產負債表</h1>
-      <table id="balanceSheetTable">
-        <thead>
-          <tr>
-            <th>項目</th>
-            <th>數值</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- 這裡的內容將由JavaScript生成 -->
-        </tbody>
-      </table>
+      <div>
+        <div style="display: flex;">
+          <label for="BS-year">年：</label>
+          <select name="BS-year" id="BS-year">
+            <option value=""></option>
+          </select>
+          <label for="BS-season">&nbsp;&nbsp;季：</label>
+          <select name="BS-season" id="BS-season">
+            <option value=""></option>
+          </select>
+        </div>
+        <h1 id="title">請輸入要查詢的股票代號或公司名稱</h1>
+        <table id="balanceSheetTable">
+          <thead>
+          </thead>
+          <tbody>
+            <!-- 這裡的內容將由JavaScript生成 -->
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
   <script src="main.js"></script>

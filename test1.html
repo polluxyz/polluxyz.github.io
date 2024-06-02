@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="description" content="[local storage]">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>test</title>
+  <style>
+</style>
+</head>
+<body>
+  <div class='app'>
+    <div>
+      <input class='text' /><button class='btn'>儲存</button>
+    </div>
+  <script>
+    document.querySelector('.btn').addEventListener('click',
+      function () {
+        const value = document.querySelector('.text').value
+        localStorage.setItem('text', value)
+      }
+    )
+  </script>
+</body>
+</html>
