@@ -10,5 +10,26 @@
 .highcharts-axis-labels,
 .highcharts-tooltip,
 .highcharts-legend-item text {
-  font-size: 2vh !important; /* 设置你需要的字体大小 */
+  font-size: 2vh !important;
+  /* 设置你需要的字体大小 */
+  font-family: "LXGW WenKai TC", cursive;
+}
+
+.highcharts-range-selector-buttons text,
+.highcharts-range-selector-label text,
+.highcharts-range-input text,
+.highcharts-range-label text,
+.highcharts-button text {
+  font-family: "LXGW WenKai TC", cursive;
+  /* 设置rangeSelector按钮和标签的字体 */
+}
+
+.highcharts-input-group input,
+.highcharts-range-selector input {
+  font-family: "LXGW WenKai TC", cursive;
+  /* 设置rangeSelector输入框的字体 */
+}
+
+span {
+  font-family: "LXGW WenKai TC", cursive;
 }

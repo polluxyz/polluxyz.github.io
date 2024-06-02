@@ -15,6 +15,7 @@
 <body>
   <div class="header">
     <h1>Stock Analysis</h1>
+    <span>/資產負債表</span>
   </div>
   <div class="container">
     <div class="sidebar collapsed" id="sidebar">
@@ -25,13 +26,13 @@
       </form>
       <nav class="menu collapsed" id="menu">
         <header class="major">
-          <h2>Menu</h2>
+          <h2><a href="index.html">Menu</a></h2>
         </header>
         <ul>
           <li>
             <span class="opener">財務報表</span>
             <ul>
-              <li><a href="balancesheet.html">資產負債表</a></li>
+              <li><a href="#">資產負債表</a></li>
               <li><a href="#">綜合損益表</a></li>
               <li><a href="#">權益變動表</a></li>
               <li><a href="#">現金流量表</a></li>
@@ -59,11 +60,23 @@
       </nav>
     </div>
     <div class="content" id="content">
-      <div id="chart"></div>
+      <h1>台泥2013第一季資產負債表</h1>
+      <table id="balanceSheetTable">
+        <thead>
+          <tr>
+            <th>項目</th>
+            <th>數值</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- 這裡的內容將由JavaScript生成 -->
+        </tbody>
+      </table>
     </div>
   </div>
   <script src="main.js"></script>
-  <script src="chart.js"></script>
+  <!-- <script src="chart.js"></script> -->
+  <script src="balanceSheet.js"></script>
   <script src="https://kit.fontawesome.com/1211dd70ec.js" crossorigin="anonymous"></script>
 </body>
 

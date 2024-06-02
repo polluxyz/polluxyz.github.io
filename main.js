@@ -25,4 +25,22 @@ document.addEventListener("DOMContentLoaded", function () {
       menu.classList.add("collapsed");
     }
   });
+
+  const opener1 = document.getElementsByClassName("opener")[0];
+  const opener2 = document.getElementsByClassName("opener")[1];
+
+  opener1.addEventListener("click", function () {
+    if (opener1.classList.contains("active")) {
+      opener1.classList.remove("active");
+    } else {
+      opener1.classList.add("active");
+    }
+  });
+  opener2.addEventListener("click", function () {
+    if (opener2.classList.contains("active")) {
+      opener2.classList.remove("active");
+    } else {
+      opener2.classList.add("active");
+    }
+  });
 });
